@@ -1,0 +1,326 @@
+#NEXUS
+[written Mon Dec 19 10:39:31 EST 2016 by Mesquite  version 3.04 (build 725) at R2-D2/10.251.35.173]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=167;
+	TAXLABELS
+		Diopisthoporus_psammophilus Convolutriloba_macropyga Diopisthoporus_longitubus Eumecynostomum_altitudi Hofstenia_miamia Isodiametra_pulchra Childia_submaculatum Astrotomma_agassizi Dumetocrinus_antarcticus Labidiaster_annulatus Leptosynapta_clarki Ptychodera_bahamensis Saccoglossus_mereschkowskii Schizocardium_braziliense Stronglyocentrotus_purpuratus Capitella_teleta Helobdella_nunununununujensis Pomatoceros_lamarckii Daphnia_pulex Drosophila_melanogaster Ixodes_acutitarsus Strigamia_maritima Membranipora_membranacae Botryllus_schlosseri Branchiostoma_floridae Ciona_intestinalis Gallus_gallus Homo_sapiens Petromyzon_marinus Abylopsis_tetragona Acropora_longicyathus Acropora_millepora Aegina_citrea Agalma_elegans Alatina_mordens Alcyonium_gracillimum Anemonia_viridis Anthomastus Antipathes_griggi Atolla_vanhoeffeni Aurelia_aurita Botrynema_brucei Candelabrum_cocksii Cerianthus_borealis Clytia_hemispaerica Craseoa_lathetica Dendronephthya_putteri Ectopleura_larynx Exaiptasia_pallida Haliclystus_sanjuanensis Hydra_magnipapillata Hydractinia_symbiolongicarpus Keratoisidinae Metridium_senile Montastraea_annularis Nanomia_bijuga Nematostella_vectensis Physalia_physalis Podocoryna_carnae Porites_cylindrica Beroe_cucumis Beroe_forskalii Charistephane_fugiens Coeloplana_bannwarthii Haeckelia_rubra Mertensi_ovum Ocyropsis_maculata Pleurobrachia_bachei Pleurobrachia_pileus Vallicula_multiformis Velamen_parallelum Barentsia_gracilis Loxosoma_pectinaricola Lepidodermella_squamata Macrodasys Megadasys Hemithiris_psittacea Novocrania_anomala Phoronis_psammophila Terebratalia_transversa Crassostrea_gigas Leptochiton_rugatus Lottia_gigantea Cephalodiscus_gracilis Cephalothrix_hongkongiensis Lineus_longissimus Ascoparia Meara_stichopi Nemertoderma_westbladi Sterreria Peripatopsis_capensis Trichoplax Macrostomum_ligano Prostheceraeus_vittatus Schistosoma_mansoni Dugesia_mediterranea Taenia_pisiformes Acanthella_acuta Agelas_clathrodes Agelas_oroides Amphimedon_compressa Amphimedon_erina Aphrocallistes_vastus Aplysina_aerophoba Aplysina_cavernicola Aplysina_fulva Asbestopluma_occidentalis Axinella_damicornis Axinella_verrucosa Calyx_podatypa Chalinula_molitba Chondrilla_australiensis Chondrilla_nucula Chondrosia_reniformis Clathrina_clathrus Cliona_virdis Corticium_candelabrum Crambe_crambe Dictyonella_incisa Dragmacidon_lunaecharta Ephydatia_fluviatilis Eunapius_fragilis Geodia_barretti Halichondria_okadai Haliclona_elegans Haliclona_oculata Haliclona_sarai Haliclona_xena Halisarca_dujardini Heterochone_calyx Hexadella_pruvoti Hippospongia_lachne Hymeniacidon_perlevis Lissodendoryx_colombiensis Lophocalyx_profundum Microciona_prolifera Mycale_laxissima Negombata_magnifica Oopsacas_minuta Oscarella_lobularis Petrosia_ficiformis Placospongia_intermedia Rhopaloeides_odorabile Nodastrella_asconemaoida Scopalina_ruetzleri Siphonochalina_siphonella Spirastrella_cunctatrix Spongia_officinalis Spongilla_lacustris Suberites_domuncula Suberites_ficus Sycon_coactum Tedania_ignis Tethya_aurantium Tethya_citrina Tethya1 Tethya2 Thenea_muricata Xestospongia_muta Halicryptus_spinulosus Priapulus_caudatus Adineta_ricciae Adineta_vaga Brachionus_calyciflorus Xenoturbella_bocki Monosiga_brevicollis Proterospongia 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=1;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2";
+	MATRIX
+	Diopisthoporus_psammophilus    1
+	Convolutriloba_macropyga       1
+	Diopisthoporus_longitubus      1
+	Eumecynostomum_altitudi        1
+	Hofstenia_miamia               1
+	Isodiametra_pulchra            1
+	Childia_submaculatum           1
+	Astrotomma_agassizi            0
+	Dumetocrinus_antarcticus       0
+	Labidiaster_annulatus          ?
+	Leptosynapta_clarki            0
+	Ptychodera_bahamensis          0
+	Saccoglossus_mereschkowskii    0
+	Schizocardium_braziliense      0
+	Stronglyocentrotus_purpuratus  0
+	Capitella_teleta               0
+	Helobdella_nunununununujensis  1
+	Pomatoceros_lamarckii          0
+	Daphnia_pulex                  0
+	Drosophila_melanogaster        0
+	Ixodes_acutitarsus             0
+	Strigamia_maritima             0
+	Membranipora_membranacae       ?
+	Botryllus_schlosseri           1
+	Branchiostoma_floridae         0
+	Ciona_intestinalis             1
+	Gallus_gallus                  0
+	Homo_sapiens                   0
+	Petromyzon_marinus             0
+	Abylopsis_tetragona            1
+	Acropora_longicyathus          1
+	Acropora_millepora             1
+	Aegina_citrea                  ?
+	Agalma_elegans                 1
+	Alatina_mordens                0
+	Alcyonium_gracillimum          0
+	Anemonia_viridis               0
+	Anthomastus                    0
+	Antipathes_griggi              0
+	Atolla_vanhoeffeni             0
+	Aurelia_aurita                 0
+	Botrynema_brucei               ?
+	Candelabrum_cocksii            0
+	Cerianthus_borealis            1
+	Clytia_hemispaerica            0
+	Craseoa_lathetica              1
+	Dendronephthya_putteri         0
+	Ectopleura_larynx              0
+	Exaiptasia_pallida             0
+	Haliclystus_sanjuanensis       0
+	Hydra_magnipapillata           0
+	Hydractinia_symbiolongicarpus  0
+	Keratoisidinae                 ?
+	Metridium_senile               0
+	Montastraea_annularis          1
+	Nanomia_bijuga                 1
+	Nematostella_vectensis         0
+	Physalia_physalis              0
+	Podocoryna_carnae              0
+	Porites_cylindrica             0
+	Beroe_cucumis                  1
+	Beroe_forskalii                1
+	Charistephane_fugiens          1
+	Coeloplana_bannwarthii         ?
+	Haeckelia_rubra                1
+	Mertensi_ovum                  1
+	Ocyropsis_maculata             0
+	Pleurobrachia_bachei           1
+	Pleurobrachia_pileus           1
+	Vallicula_multiformis          1
+	Velamen_parallelum             1
+	Barentsia_gracilis             0
+	Loxosoma_pectinaricola         0
+	Lepidodermella_squamata        2
+	Macrodasys                     1
+	Megadasys                      1
+	Hemithiris_psittacea           0
+	Novocrania_anomala             0
+	Phoronis_psammophila           0
+	Terebratalia_transversa        0
+	Crassostrea_gigas              0
+	Leptochiton_rugatus            0
+	Lottia_gigantea                0
+	Cephalodiscus_gracilis         0
+	Cephalothrix_hongkongiensis    0
+	Lineus_longissimus             0
+	Ascoparia                      1
+	Meara_stichopi                 1
+	Nemertoderma_westbladi         1
+	Sterreria                      1
+	Peripatopsis_capensis          0
+	Trichoplax                     ?
+	Macrostomum_ligano             1
+	Prostheceraeus_vittatus        1
+	Schistosoma_mansoni            0
+	Dugesia_mediterranea           1
+	Taenia_pisiformes              1
+	Acanthella_acuta               ?
+	Agelas_clathrodes              ?
+	Agelas_oroides                 0
+	Amphimedon_compressa           1
+	Amphimedon_erina               1
+	Aphrocallistes_vastus          1
+	Aplysina_aerophoba             0
+	Aplysina_cavernicola           0
+	Aplysina_fulva                 ?
+	Asbestopluma_occidentalis      1
+	Axinella_damicornis            0
+	Axinella_verrucosa             0
+	Calyx_podatypa                 ?
+	Chalinula_molitba              ?
+	Chondrilla_australiensis       0
+	Chondrilla_nucula              0
+	Chondrosia_reniformis          0
+	Clathrina_clathrus             1
+	Cliona_virdis                  1
+	Corticium_candelabrum          1
+	Crambe_crambe                  1
+	Dictyonella_incisa             ?
+	Dragmacidon_lunaecharta        ?
+	Ephydatia_fluviatilis          0
+	Eunapius_fragilis              ?
+	Geodia_barretti                0
+	Halichondria_okadai            0
+	Haliclona_elegans              0
+	Haliclona_oculata              1
+	Haliclona_sarai                ?
+	Haliclona_xena                 1
+	Halisarca_dujardini            1
+	Heterochone_calyx              ?
+	Hexadella_pruvoti              ?
+	Hippospongia_lachne            0
+	Hymeniacidon_perlevis          1
+	Lissodendoryx_colombiensis     ?
+	Lophocalyx_profundum           ?
+	Microciona_prolifera           1
+	Mycale_laxissima               1
+	Negombata_magnifica            1
+	Oopsacas_minuta                1
+	Oscarella_lobularis            1
+	Petrosia_ficiformis            0
+	Placospongia_intermedia        ?
+	Rhopaloeides_odorabile         0
+	Nodastrella_asconemaoida       ?
+	Scopalina_ruetzleri            1
+	Siphonochalina_siphonella      1
+	Spirastrella_cunctatrix        0
+	Spongia_officinalis            0
+	Spongilla_lacustris            0
+	Suberites_domuncula            0
+	Suberites_ficus                0
+	Sycon_coactum                  1
+	Tedania_ignis                  ?
+	Tethya_aurantium               0
+	Tethya_citrina                 0
+	Tethya1                        ?
+	Tethya2                        ?
+	Thenea_muricata                0
+	Xestospongia_muta              0
+	Halicryptus_spinulosus         0
+	Priapulus_caudatus             0
+	Adineta_ricciae                2
+	Adineta_vaga                   2
+	Brachionus_calyciflorus        0
+	Xenoturbella_bocki             1
+	Monosiga_brevicollis           ?
+	Proterospongia                 ?
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1482161971810;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 241492928996267523;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 7809675321153698545;
+			mqVersion 304;
+			checksumv 0 3 24233848 null  getNumChars 1 numChars 1 getNumTaxa 167 numTaxa 167   short true   bits 7   states 7   sumSquaresStatesOnly 359.0 sumSquares 359.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 193;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1920 961;
+			setLocation -8 -8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #7809675321153698545 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1727 889;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

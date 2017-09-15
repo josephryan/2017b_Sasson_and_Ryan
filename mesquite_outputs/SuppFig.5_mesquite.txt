@@ -1,0 +1,692 @@
+Mesquite version 3.11 (build 766)   Date: Sun Jul 30 18:56:07 CDT 2017
+Window refers to project with home file Two xeno mesquite
+=======================
+
+Tree window for taxa "Taxa"
+
+----------------
+Showing Tree block: Trees from "two Xeno tree.txt"
+----------------
+
+Original Tree:  tree 1 (id 15, version 1666)
+
+Tree Description:  ((Monosiga_brevicollis:0.054754,Proterospongia:0.178708):0.0249425,(((Charistephane_fugiens:0.001519,Mertensi_ovum:0.015203):0.001432,((Coeloplana_bannwarthii:0.003025,Vallicula_multiformis:0.002965):0.007566,((Haeckelia_rubra:0.004497,(Beroe_cucumis:0.003002,Beroe_forskalii:0.001493):0.001452):0.003009,((Ocyropsis_maculata:0.004489,Velamen_parallelum:0.000001):0.000001,(Pleurobrachia_bachei:0.000001,Pleurobrachia_pileus:0.001483):0.00904):0.003002):0.003028):0.001569):0.07147,((((Clathrina_clathrus:0.014046,Sycon_coactum:0.008376):0.021237,(Corticium_candelabrum:0.023385,Oscarella_lobularis:0.08278):0.049367):0.005234,(((Aphrocallistes_vastus:0.06668,Heterochone_calyx:0.001846):0.011978,(Oopsacas_minuta:0.00298,(Lophocalyx_profundum:0.001474,Nodastrella_asconemaoida:0.000001):0.001447):0.004538):0.079637,(((Rhopaloeides_odorabile:0.02098,(Hippospongia_lachne:0.002946,Spongia_officinalis:0.003032):0.018354):0.027282,((Hexadella_pruvoti:0.005161,(Aplysina_fulva:0.003687,(Aplysina_aerophoba:0.008292,Aplysina_cavernicola:0.00154):0.000001):0.001679):0.0141,(Chondrosia_reniformis:0.032201,(Halisarca_dujardini:0.043471,(Chondrilla_australiensis:0.015819,Chondrilla_nucula:0.000001):0.099267):0.006548):0.018804):0.024613):0.000561,((Calyx_podatypa:0.017066,((Haliclona_sarai:0.000967,(Amphimedon_compressa:0.000001,Amphimedon_erina:0.000001):0.02813):0.019975,((Petrosia_ficiformis:0.067148,Xestospongia_muta:0.017799):0.02094,((Haliclona_xena:0.045076,Siphonochalina_siphonella:0.000001):0.000001,(Haliclona_oculata:0.003321,(Chalinula_molitba:0.035525,Haliclona_elegans:0.000001):0.003679):0.00504):0.007091):0.011329):0.017862):0.031911,((Scopalina_ruetzleri:0.009519,(Ephydatia_fluviatilis:0.000001,(Eunapius_fragilis:0.001502,Spongilla_lacustris:0.001508):0.000001):0.018319):0.001779,(((Acanthella_acuta:0.005854,Dictyonella_incisa:0.011562):0.007146,(Dragmacidon_lunaecharta:0.007817,(Geodia_barretti:0.00666,Thenea_muricata:0.000001):0.022303):0.0023):0.000233,(((Agelas_clathrodes:0.003761,Agelas_oroides:0.002081):0.001836,(Axinella_damicornis:0.002115,Axinella_verrucosa:0.008915):0.001795):0.012875,(((Placospongia_intermedia:0.000001,(Cliona_virdis:0.002504,Spirastrella_cunctatrix:0.00995):0.00241):0.004908,((Tethya_aurantium:0.001634,Tethya2:0.00492):0.000001,(Tethya_citrina:0.015218,Tethya1:0.000001):0.000001):0.006552):0.000001,((Halichondria_okadai:0.000001,(Hymeniacidon_perlevis:0.004474,(Suberites_domuncula:0.000001,Suberites_ficus:0.000001):0.002977):0.000001):0.012085,((Asbestopluma_occidentalis:0.047714,Mycale_laxissima:0.014512):0.011326,((Crambe_crambe:0.003425,Microciona_prolifera:0.026075):0.002749,(Negombata_magnifica:0.012437,(Lissodendoryx_colombiensis:0.010069,Tedania_ignis:0.000001):0.005871):0.001696):0.00203):0.000001):0.006672):0.027888):0.000001):0.00744):0.015035):0.009839):0.006256):0.008543):0.023639,(Trichoplax:0.062819,(((((Alcyonium_gracillimum:0.000001,Dendronephthya_putteri:0.000001):0.012705,(Anthomastus:0.068942,Keratoisidinae:0.014747):0.003648):0.017267,(Cerianthus_borealis:0.117379,((Nematostella_vectensis:0.011373,(Anemonia_viridis:0.009365,(Exaiptasia_pallida:0.00229,Metridium_senile:0.002245):0.003483):0.001884):0.0118,(Antipathes_griggi:0.007034,(Montastraea_annularis:0.001406,(Porites_cylindrica:0.000001,(Acropora_longicyathus:0.068338,Acropora_millepora:0.050783):0.529057):0.000001):0.015853):0.000001):0.001654):0.010317):0.01525,((Haliclystus_sanjuanensis:0.024256,(Alatina_mordens:0.060679,(Atolla_vanhoeffeni:0.009262,Aurelia_aurita:0.015528):0.000249):0.000001):0.000001,((Aegina_citrea:0.018062,Botrynema_brucei:0.009871):0.012597,((Hydra_magnipapillata:0.029485,(Candelabrum_cocksii:0.001546,Ectopleura_larynx:0.007495):0.003329):0.002656,((Hydractinia_symbiolongicarpus:0.000001,Podocoryna_carnae:0.001498):0.004497,(Clytia_hemispaerica:0.041586,(Physalia_physalis:0.006005,((Abylopsis_tetragona:0.002983,Craseoa_lathetica:0.000001):0.007493,(Agalma_elegans:0.000001,Nanomia_bijuga:0.001489):0.000001):0.006009):0.004533):0.000001):0.000001):0.005674):0.038882):0.005427):0.011154,((((Branchiostoma_floridae:0.0912,((Botryllus_schlosseri:0.042828,Ciona_intestinalis:0.02133):0.065569,(Petromyzon_marinus:0.042545,(Gallus_gallus:0.014361,Homo_sapiens:0.019474):0.040647):0.057365):0.022263):0.014129,((Cephalodiscus_gracilis:0.179265,(Saccoglossus_mereschkowskii:0.065001,(Ptychodera_bahamensis:0.010369,Schizocardium_braziliense:0.007583):0.002553):0.008421):0.008696,(Dumetocrinus_antarcticus:0.021771,((Astrotomma_agassizi:0.110375,Labidiaster_annulatus:0.022074):0.006413,(Leptosynapta_clarki:0.112539,Stronglyocentrotus_purpuratus:0.047508):0.005911):0.011229):0.02556):0.02437):0.000596,(((Halicryptus_spinulosus:0.018425,Priapulus_caudatus:0.014407):0.031451,(Peripatopsis_capensis:0.162318,((Daphnia_pulex:0.062426,Drosophila_melanogaster:0.394458):0.02075,(Ixodes_acutitarsus:0.050804,Strigamia_maritima:0.050295):0.003027):0.00978):0.01152):0.006424,(((Helobdella_nunununununujensis:0.070532,(Capitella_teleta:0.160903,Pomatoceros_lamarckii:0.174078):0.05314):0.00796,((Phoronis_psammophila:0.032898,(Novocrania_anomala:0.009287,(Hemithiris_psittacea:0.019235,Terebratalia_transversa:0.025899):0.013429):0.006069):0.006086,((Cephalothrix_hongkongiensis:0.054265,Lineus_longissimus:0.055152):0.010441,(Leptochiton_rugatus:0.018717,(Crassostrea_gigas:0.063858,Lottia_gigantea:0.474013):0.000001):0.000001):0.000001):0.003464):0.000001,((Membranipora_membranacae:0.551167,(Barentsia_gracilis:0.013923,Loxosoma_pectinaricola:0.063804):0.020036):0.014709,((Brachionus_calyciflorus:0.028103,(Adineta_ricciae:0.000001,Adineta_vaga:0.003001):0.336768):0.040588,((Macrodasys:0.116478,Megadasys:0.096586):0.021177,(Lepidodermella_squamata:0.099129,(Macrostomum_ligano:0.05949,(Prostheceraeus_vittatus:0.120399,(Dugesia_mediterranea:0.213564,(Schistosoma_mansoni:0.060032,Taenia_pisiformes:0.095917):0.032313):0.03278):0.000001):0.032903):0.008044):0.001206):0.012046):0.002659):0.030161):0.026631):0.008134,((Xenoturbella_bocki,Xenoturbella_profunda):0.053343,((Ascoparia:0.127537,(Nemertoderma_westbladi:0.079467,(Meara_stichopi:0.167646,Sterreria:0.056957):0.016469):0.044877):0.023266,((Diopisthoporus_psammophilus:0.024654,Diopisthoporus_longitubus:0.009442):0.142486,(Hofstenia_miamia:0.225999,(Isodiametra_pulchra:0.669629,(Eumecynostomum_altitudi:0.078718,(Convolutriloba_macropyga:0.18815,Childia_submaculatum:0.047725):0.0582):0.153492):0.101325):0.028897):0.17246):0.000001):0.003662):0.155659):0.004488):0.022509):0.00156):0.0249425);
+Tree with node numbers:
+              ,==============================================================================================4 Monosiga brevicollis
+        ,====3|
+        |     `==============================================================================================5 Proterospongia
+        |
+        |                 ,==================================================================================9 Charistephane fugiens
+        |           ,====8|
+        |           |     `=================================================================================10 Mertensi ovum
+        |           |
+        |           |           ,===========================================================================13 Coeloplana bannwarthii
+        |     ,====7|     ,===12|
+        |     |     |     |     `===========================================================================14 Vallicula multiformis
+        |     |     |     |
+        |     |     |     |           ,=====================================================================17 Haeckelia rubra
+        |     |     `===11|     ,===16|
+        |     |           |     |     |     ,===============================================================19 Beroe cucumis
+        |     |           |     |     `===18|
+        |     |           |     |           `===============================================================20 Beroe forskalii
+        |     |           `===15|
+        |     |                 |           ,===============================================================23 Ocyropsis maculata
+        |     |                 |     ,===22|
+        |     |                 |     |     `===============================================================24 Velamen parallelum
+        |     |                 `===21|
+        |     |                       |     ,===============================================================26 Pleurobrachia bachei
+        |     |                       `===25|
+        |     |                             `===============================================================27 Pleurobrachia pileus
+        |     |
+        |     |                       ,=====================================================================32 Clathrina clathrus
+        |     |                 ,===31|
+        |     |                 |     `=====================================================================33 Sycon coactum
+        |     |           ,===30|
+        |     |           |     |     ,=====================================================================35 Corticium candelabrum
+=======2|     |           |     `===34|
+        |     |           |           `=====================================================================36 Oscarella lobularis
+        |     |           |
+        |     |           |                 ,===============================================================40 Aphrocallistes vastus
+        |     |           |           ,===39|
+        |     |           |           |     `===============================================================41 Heterochone calyx
+        |     |           |     ,===38|
+        |     |           |     |     |     ,===============================================================43 Oopsacas minuta
+        |     |           |     |     `===42|
+        |     |     ,===29|     |           |     ,=========================================================45 Lophocalyx profundum
+        |     |     |     |     |           `===44|
+        |     |     |     |     |                 `=========================================================46 Nodastrella asconemaoida
+        |     |     |     |     |
+        |     |     |     |     |                 ,=========================================================50 Rhopaloeides odorabile
+        |     |     |     |     |           ,===49|
+        |     |     |     |     |           |     |     ,===================================================52 Hippospongia lachne
+        |     |     |     |     |           |     `===51|
+        |     |     |     |     |           |           `===================================================53 Spongia officinalis
+        |     |     |     |     |           |
+        |     |     |     |     |     ,===48|           ,===================================================56 Hexadella pruvoti
+        |     |     |     `===37|     |     |     ,===55|
+        |     |     |           |     |     |     |     |     ,=============================================58 Aplysina fulva
+        |     |     |           |     |     |     |     `===57|
+        |     |     |           |     |     |     |           |     ,=======================================60 Aplysina aerophoba
+        |     |     |           |     |     `===54|           `===59|
+        |     |     |           |     |           |                 `=======================================61 Aplysina cavernicola
+        |     |     |           |     |           |
+        |     |     |           |     |           |     ,===================================================63 Chondrosia reniformis
+        |     |     |           |     |           `===62|
+        |     |     |           |     |                 |     ,=============================================65 Halisarca dujardini
+        `====6|     |           |     |                 `===64|
+              |     |           |     |                       |     ,=======================================67 Chondrilla australiensis
+              |     |           |     |                       `===66|
+              |     |           |     |                             `=======================================68 Chondrilla nucula
+              |     |           |     |
+              |     |           `===47|           ,=========================================================71 Calyx podatypa
+              |     |                 |           |
+              |     |                 |           |           ,=============================================74 Haliclona sarai
+              |     |                 |     ,===70|     ,===73|
+              |     |                 |     |     |     |     |     ,=======================================76 Amphimedon compressa
+              |     |                 |     |     |     |     `===75|
+              |     |                 |     |     |     |           `=======================================77 Amphimedon erina
+              |     |                 |     |     `===72|
+              |     |                 |     |           |           ,=======================================80 Petrosia ficiformis
+              |     |                 |     |           |     ,===79|
+              |     |                 |     |           |     |     `=======================================81 Xestospongia muta
+              |     |                 |     |           |     |
+              |     |                 |     |           `===78|           ,=================================84 Haliclona xena
+              |     |                 |     |                 |     ,===83|
+              |     |                 |     |                 |     |     `=================================85 Siphonochalina siphonella
+              |     |                 |     |                 `===82|
+              |     |                 |     |                       |     ,=================================87 Haliclona oculata
+              |     |                 `===69|                       `===86|
+              |     |                       |                             |     ,===========================89 Chalinula molitba
+              |     |                       |                             `===88|
+              |     |                       |                                   `===========================90 Haliclona elegans
+              |     |                       |
+              |     |                       |           ,===================================================93 Scopalina ruetzleri
+              |     |                       |     ,===92|
+              |     |                       |     |     |     ,=============================================95 Ephydatia fluviatilis
+              |     |                       |     |     `===94|
+              |     |                       |     |           |     ,=======================================97 Eunapius fragilis
+              |     |                       |     |           `===96|
+              |     |                       |     |                 `=======================================98 Spongilla lacustris
+              |     |                       |     |
+              |     |                       |     |                 ,======================================102 Acanthella acuta
+              |     |                       |     |           ,==101|
+              |     |                       `===91|           |     `======================================103 Dictyonella incisa
+              |     |                             |     ,==100|
+              |     |                             |     |     |     ,======================================105 Dragmacidon lunaecharta
+              |     |                             |     |     `==104|
+              |     |                             |     |           |     ,================================107 Geodia barretti
+              |     |                             |     |           `==106|
+              |     |                             |     |                 `================================108 Thenea muricata
+              |     |                             |     |
+              |     |                             |     |                 ,================================112 Agelas clathrodes
+              |     |                             |     |           ,==111|
+              |     |                             `===99|           |     `================================113 Agelas oroides
+              |     |                                   |     ,==110|
+              |     |                                   |     |     |     ,================================115 Axinella damicornis
+              |     |                                   |     |     `==114|
+              |     |                                   |     |           `================================116 Axinella verrucosa
+              `===28|                                   |     |
+                    |                                   |     |                 ,==========================120 Placospongia intermedia
+                    |                                   |     |           ,==119|
+                    |                                   |     |           |     |     ,====================122 Cliona virdis
+                    |                                   `==109|           |     `==121|
+                    |                                         |           |           `====================123 Spirastrella cunctatrix
+                    |                                         |     ,==118|
+                    |                                         |     |     |           ,====================126 Tethya aurantium
+                    |                                         |     |     |     ,==125|
+                    |                                         |     |     |     |     `====================127 Tethya2
+                    |                                         |     |     `==124|
+                    |                                         |     |           |     ,====================129 Tethya citrina
+                    |                                         |     |           `==128|
+                    |                                         `==117|                 `====================130 Tethya1
+                    |                                               |
+                    |                                               |           ,==========================133 Halichondria okadai
+                    |                                               |     ,==132|
+                    |                                               |     |     |     ,====================135 Hymeniacidon perlevis
+                    |                                               |     |     `==134|
+                    |                                               |     |           |     ,==============137 Suberites domuncula
+                    |                                               |     |           `==136|
+                    |                                               `==131|                 `==============138 Suberites ficus
+                    |                                                     |
+                    |                                                     |           ,====================141 Asbestopluma occidentalis
+                    |                                                     |     ,==140|
+                    |                                                     |     |     `====================142 Mycale laxissima
+                    |                                                     |     |
+                    |                                                     `==139|           ,==============145 Crambe crambe
+                    |                                                           |     ,==144|
+                    |                                                           |     |     `==============146 Microciona prolifera
+                    |                                                           `==143|
+                    |                                                                 |     ,==============148 Negombata magnifica
+                    |                                                                 `==147|
+                    |                                                                       |     ,========150 Lissodendoryx colombiensis
+                    |                                                                       `==149|
+                    |                                                                             `========151 Tedania ignis
+                    |
+                    |     ,================================================================================153 Trichoplax
+                    |     |
+                    |     |                             ,==================================================159 Alcyonium gracillimum
+                    |     |                       ,==158|
+                    |     |                       |     `==================================================160 Dendronephthya putteri
+                    |     |                 ,==157|
+                    |     |                 |     |     ,==================================================162 Anthomastus
+                    |     |                 |     `==161|
+                    |     |                 |           `==================================================163 Keratoisidinae
+                    |     |           ,==156|
+                    |     |           |     |     ,========================================================165 Cerianthus borealis
+                    |     |           |     |     |
+                    |     |           |     |     |           ,============================================168 Nematostella vectensis
+                    |     |           |     `==164|     ,==167|
+                    |     |           |           |     |     |     ,======================================170 Anemonia viridis
+                    |     |           |           |     |     `==169|
+                    |     |           |           |     |           |     ,================================172 Exaiptasia pallida
+                    |     |           |           `==166|           `==171|
+                    |     |           |                 |                 `================================173 Metridium senile
+                    |     |           |                 |
+                    |     |           |                 |     ,============================================175 Antipathes griggi
+                    |     |           |                 `==174|
+                    |     |           |                       |     ,======================================177 Montastraea annularis
+                    |     |     ,==155|                       `==176|
+                    |     |     |     |                             |     ,================================179 Porites cylindrica
+                    |     |     |     |                             `==178|
+                    |     |     |     |                                   |     ,==========================181 Acropora longicyathus
+                    |     |     |     |                                   `==180|
+                    |     |     |     |                                         `==========================182 Acropora millepora
+                    |     |     |     |
+                    |     |     |     |           ,========================================================185 Haliclystus sanjuanensis
+                    |     |     |     |     ,==184|
+                    |     |     |     |     |     |     ,==================================================187 Alatina mordens
+                    |     |     |     |     |     `==186|
+                    |     |     |     |     |           |     ,============================================189 Atolla vanhoeffeni
+                    |     |     |     |     |           `==188|
+                    |     |     |     |     |                 `============================================190 Aurelia aurita
+                    `==152|     |     `==183|
+                          |     |           |           ,==================================================193 Aegina citrea
+                          |     |           |     ,==192|
+                          |     |           |     |     `==================================================194 Botrynema brucei
+                          |     |           |     |
+                          |     |           |     |           ,============================================197 Hydra magnipapillata
+                          |     |           `==191|     ,==196|
+                          |     |                 |     |     |     ,======================================199 Candelabrum cocksii
+                          |     |                 |     |     `==198|
+                          |     |                 |     |           `======================================200 Ectopleura larynx
+                          |     |                 `==195|
+                          |     |                       |           ,======================================203 Hydractinia symbiolongicarpus
+                          |     |                       |     ,==202|
+                          |     |                       |     |     `======================================204 Podocoryna carnae
+                          |     |                       `==201|
+                          |     |                             |     ,======================================206 Clytia hemispaerica
+                          |     |                             |     |
+                          |     |                             `==205|     ,================================208 Physalia physalis
+                          |     |                                   |     |
+                          |     |                                   `==207|           ,====================211 Abylopsis tetragona
+                          |     |                                         |     ,==210|
+                          |     |                                         |     |     `====================212 Craseoa lathetica
+                          |     |                                         `==209|
+                          |     |                                               |     ,====================214 Agalma elegans
+                          |     |                                               `==213|
+                          |     |                                                     `====================215 Nanomia bijuga
+                          |     |
+                          |     |                       ,==================================================220 Branchiostoma floridae
+                          |     |                       |
+                          |     |                 ,==219|           ,======================================223 Botryllus schlosseri
+                          |     |                 |     |     ,==222|
+                          |     |                 |     |     |     `======================================224 Ciona intestinalis
+                          |     |                 |     `==221|
+                          |     |                 |           |     ,======================================226 Petromyzon marinus
+                          |     |                 |           `==225|
+                          |     |                 |                 |     ,================================228 Gallus gallus
+                          |     |           ,==218|                 `==227|
+                          |     |           |     |                       `================================229 Homo sapiens
+                          `==154|           |     |
+                                |           |     |           ,============================================232 Cephalodiscus gracilis
+                                |           |     |     ,==231|
+                                |           |     |     |     |     ,======================================234 Saccoglossus mereschkowskii
+                                |           |     |     |     `==233|
+                                |           |     |     |           |     ,================================236 Ptychodera bahamensis
+                                |           |     `==230|           `==235|
+                                |           |           |                 `================================237 Schizocardium braziliense
+                                |           |           |
+                                |           |           |     ,============================================239 Dumetocrinus antarcticus
+                                |           |           |     |
+                                |           |           `==238|           ,================================242 Astrotomma agassizi
+                                |           |                 |     ,==241|
+                                |           |                 |     |     `================================243 Labidiaster annulatus
+                                |           |                 `==240|
+                                |           |                       |     ,================================245 Leptosynapta clarki
+                                |           |                       `==244|
+                                |     ,==217|                             `================================246 Stronglyocentrotus purpuratus
+                                |     |     |
+                                |     |     |                 ,============================================250 Halicryptus spinulosus
+                                |     |     |           ,==249|
+                                |     |     |           |     `============================================251 Priapulus caudatus
+                                |     |     |     ,==248|
+                                |     |     |     |     |     ,============================================253 Peripatopsis capensis
+                                |     |     |     |     |     |
+                                |     |     |     |     `==252|           ,================================256 Daphnia pulex
+                                |     |     |     |           |     ,==255|
+                                |     |     |     |           |     |     `================================257 Drosophila melanogaster
+                                |     |     |     |           `==254|
+                                |     |     |     |                 |     ,================================259 Ixodes acutitarsus
+                                |     |     |     |                 `==258|
+                                |     |     |     |                       `================================260 Strigamia maritima
+                                |     |     |     |
+                                |     |     |     |                 ,======================================264 Helobdella nunununununujensis
+                                |     |     |     |           ,==263|
+                                |     |     |     |           |     |     ,================================266 Capitella teleta
+                                |     |     `==247|           |     `==265|
+                                |     |           |           |           `================================267 Pomatoceros lamarckii
+                                |     |           |           |
+                                |     |           |     ,==262|           ,================================270 Phoronis psammophila
+                                |     |           |     |     |     ,==269|
+                                |     |           |     |     |     |     |     ,==========================272 Novocrania anomala
+                                |     |           |     |     |     |     `==271|
+                                |     |           |     |     |     |           |     ,====================274 Hemithiris psittacea
+                                |     |           |     |     |     |           `==273|
+                                |     |           |     |     `==268|                 `====================275 Terebratalia transversa
+                                |     |           |     |           |
+                                |     |           |     |           |           ,==========================278 Cephalothrix hongkongiensis
+                                |     |           |     |           |     ,==277|
+                                |     |           |     |           |     |     `==========================279 Lineus longissimus
+                                |     |           |     |           `==276|
+                                |     |           `==261|                 |     ,==========================281 Leptochiton rugatus
+                                |     |                 |                 `==280|
+                                `==216|                 |                       |     ,====================283 Crassostrea gigas
+                                      |                 |                       `==282|
+                                      |                 |                             `====================284 Lottia gigantea
+                                      |                 |
+                                      |                 |           ,======================================287 Membranipora membranacae
+                                      |                 |     ,==286|
+                                      |                 |     |     |     ,================================289 Barentsia gracilis
+                                      |                 |     |     `==288|
+                                      |                 |     |           `================================290 Loxosoma pectinaricola
+                                      |                 |     |
+                                      |                 `==285|           ,================================293 Brachionus calyciflorus
+                                      |                       |     ,==292|
+                                      |                       |     |     |     ,==========================295 Adineta ricciae
+                                      |                       |     |     `==294|
+                                      |                       |     |           `==========================296 Adineta vaga
+                                      |                       `==291|
+                                      |                             |           ,==========================299 Macrodasys
+                                      |                             |     ,==298|
+                                      |                             |     |     `==========================300 Megadasys
+                                      |                             `==297|
+                                      |                                   |     ,==========================302 Lepidodermella squamata
+                                      |                                   `==301|
+                                      |                                         |     ,====================304 Macrostomum ligano
+                                      |                                         `==303|
+                                      |                                               |     ,==============306 Prostheceraeus vittatus
+                                      |                                               `==305|
+                                      |                                                     |     ,========308 Dugesia mediterranea
+                                      |                                                     `==307|
+                                      |                                                           |     ,==310 Schistosoma mansoni
+                                      |                                                           `==309|
+                                      |                                                                 `==311 Taenia pisiformes
+                                      |
+                                      |           ,========================================================314 Xenoturbella bocki
+                                      |     ,==313|
+                                      |     |     `========================================================315 Xenoturbella profunda
+                                      |     |
+                                      |     |           ,==================================================318 Ascoparia
+                                      `==312|     ,==317|
+                                            |     |     |     ,============================================320 Nemertoderma westbladi
+                                            |     |     `==319|
+                                            |     |           |     ,======================================322 Meara stichopi
+                                            |     |           `==321|
+                                            `==316|                 `======================================323 Sterreria
+                                                  |
+                                                  |           ,============================================326 Diopisthoporus psammophilus
+                                                  |     ,==325|
+                                                  |     |     `============================================327 Diopisthoporus longitubus
+                                                  `==324|
+                                                        |     ,============================================329 Hofstenia miamia
+                                                        `==328|
+                                                              |     ,======================================331 Isodiametra pulchra
+                                                              `==330|
+                                                                    |     ,================================333 Eumecynostomum altitudi
+                                                                    `==332|
+                                                                          |     ,==========================335 Convolutriloba macropyga
+                                                                          `==334|
+                                                                                `==========================336 Childia submaculatum
+
+
+--------------- Trace Character History ---------------
+
+Character: Character 1
+Marginal prob. recon. with model Mk1 (est.) [rate 2.7086438 [est.]]  -log L.:111.75552016 (Opt.:  width 0.0)  Reporting likelihoods as Proportional Likelihoods; Threshold when decisions made: 2 Calc. by Maximum likelihood reconstruct (Generic categorical) (id# 1559)
+
+node 2:  !
+node 3:  !
+node 4:  !
+node 5:  !
+node 6:  0: 0.59853378*, 1: 0.39257848*, 2: 0.00888775
+node 7:  0: 0.00005215, 1: 0.99993515*, 2: 0.0000127
+node 8:  0: 0.0000029, 1: 0.99999588*, 2: 0.00000122
+node 9:  1: 1
+node 10:  1: 1
+node 11:  0: 0.00000109, 1: 0.99999842*, 2: 0.00000049
+node 12:  !
+node 13:  !
+node 14:  1: 1
+node 15:  0: 0.00000056, 1: 0.99999888*, 2: 0.00000056
+node 16:  0: 0.0000004, 1: 0.9999992*, 2: 0.0000004
+node 17:  1: 1
+node 18:  0: 0.00000013, 1: 0.99999973*, 2: 0.00000013
+node 19:  1: 1
+node 20:  1: 1
+node 21:  0: 0.00000005, 1: 0.99999995*, 2: 1.10524882E-9
+node 22:  0: 0.00000005, 1: 0.99999995*, 2: 5.59901498E-10
+node 23:  0: 1
+node 24:  1: 1
+node 25:  0: 2.70158316E-10, 1: 1*, 2: 2.70139169E-10
+node 26:  1: 1
+node 27:  1: 1
+node 28:  0: 0.61288848*, 1: 0.38094336*, 2: 0.00616816
+node 29:  0: 0.45345255*, 1: 0.54449308*, 2: 0.00205437
+node 30:  0: 0.1804404*, 1: 0.81609378*, 2: 0.00346582
+node 31:  0: 0.00271763, 1: 0.99703038*, 2: 0.00025199
+node 32:  1: 1
+node 33:  1: 1
+node 34:  0: 0.0197603, 1: 0.97555368*, 2: 0.00468603
+node 35:  1: 1
+node 36:  1: 1
+node 37:  0: 0.54918521*, 1: 0.44807431*, 2: 0.00274047
+node 38:  0: 0.00383476, 1: 0.99513011*, 2: 0.00103512
+node 39:  !
+node 40:  1: 1
+node 41:  !
+node 42:  !
+node 43:  1: 1
+node 44:  !
+node 45:  !
+node 46:  !
+node 47:  0: 0.85135517*, 1: 0.14835301*, 2: 0.00029182
+node 48:  0: 0.88363308*, 1: 0.11595549, 2: 0.00041143
+node 49:  0: 0.99492112*, 1: 0.00453203, 2: 0.00054685
+node 50:  0: 1
+node 51:  0: 0.99998639*, 1: 0.00000926, 2: 0.00000435
+node 52:  0: 1
+node 53:  0: 1
+node 54:  0: 0.99995448*, 1: 0.00004387, 2: 0.00000165
+node 55:  !
+node 56:  !
+node 57:  !
+node 58:  !
+node 59:  0: 0.99995575*, 1: 0.00004265, 2: 0.0000016
+node 60:  0: 1
+node 61:  0: 1
+node 62:  0: 0.98774876*, 1: 0.01067782, 2: 0.00157342
+node 63:  0: 1
+node 64:  0: 0.94309786*, 1: 0.05063915, 2: 0.00626298
+node 65:  1: 1
+node 66:  0: 0.9999999*, 1: 0.00000005, 2: 0.00000004
+node 67:  0: 1
+node 68:  0: 1
+node 69:  0: 0.82677068*, 1: 0.17227888*, 2: 0.00095044
+node 70:  !
+node 71:  !
+node 72:  0: 0.27607436*, 1: 0.72125883*, 2: 0.00266681
+node 73:  !
+node 74:  !
+node 75:  0: 2.61230773E-11, 1: 1*, 2: 2.69089583E-12
+node 76:  1: 1
+node 77:  1: 1
+node 78:  0: 0.25536144*, 1: 0.74281418*, 2: 0.00182438
+node 79:  0: 0.88904539*, 1: 0.10448097, 2: 0.00647364
+node 80:  0: 1
+node 81:  0: 1
+node 82:  0: 0.00283862, 1: 0.9971603*, 2: 0.00000108
+node 83:  0: 0.00032324, 1: 0.99967663*, 2: 0.00000012
+node 84:  1: 1
+node 85:  1: 1
+node 86:  0: 0.97871119*, 1: 0.02128617, 2: 0.00000264
+node 87:  1: 1
+node 88:  !
+node 89:  !
+node 90:  0: 1
+node 91:  0: 0.9043805*, 1: 0.09543844, 2: 0.00018106
+node 92:  0: 0.89599399*, 1: 0.10363283, 2: 0.00037318
+node 93:  1: 1
+node 94:  0: 0.99999998*, 1: 0.00000002, 2: 1.73484235E-9
+node 95:  0: 1
+node 96:  !
+node 97:  !
+node 98:  0: 1
+node 99:  0: 0.98012834*, 1: 0.01981561, 2: 0.00005605
+node 100:  !
+node 101:  !
+node 102:  !
+node 103:  !
+node 104:  !
+node 105:  !
+node 106:  0: 0.99999998*, 1: 0.00000002, 2: 4.02254583E-9
+node 107:  0: 1
+node 108:  0: 1
+node 109:  0: 0.98012874*, 1: 0.0198152, 2: 0.00005606
+node 110:  0: 0.9999816*, 1: 0.00001681, 2: 0.00000159
+node 111:  !
+node 112:  !
+node 113:  0: 1
+node 114:  0: 0.99999811*, 1: 0.00000115, 2: 0.00000073
+node 115:  0: 1
+node 116:  0: 1
+node 117:  0: 0.80127686*, 1: 0.19867263*, 2: 0.00005051
+node 118:  0: 0.80128443*, 1: 0.19866518*, 2: 0.00005039
+node 119:  !
+node 120:  !
+node 121:  0: 0.78096231*, 1: 0.21886638*, 2: 0.00017131
+node 122:  1: 1
+node 123:  0: 1
+node 124:  0: 0.9979101*, 1: 0.00205006, 2: 0.00003985
+node 125:  !
+node 126:  0: 1
+node 127:  !
+node 128:  !
+node 129:  0: 1
+node 130:  !
+node 131:  0: 0.21022981*, 1: 0.78964138*, 2: 0.00012881
+node 132:  0: 0.99995726*, 1: 0.00004273, 2: 0.00000002
+node 133:  0: 1
+node 134:  0: 0.99995543*, 1: 0.00004453, 2: 0.00000004
+node 135:  1: 1
+node 136:  0: 1*, 1: 9.9745995E-14, 2: 5.97574182E-14
+node 137:  0: 1
+node 138:  0: 1
+node 139:  0: 0.20758884*, 1: 0.79228341*, 2: 0.00012775
+node 140:  0: 0.03096796, 1: 0.96791848*, 2: 0.00111356
+node 141:  1: 1
+node 142:  1: 1
+node 143:  0: 0.01000727, 1: 0.98993018*, 2: 0.00006255
+node 144:  0: 0.0008388, 1: 0.99914473*, 2: 0.00001647
+node 145:  1: 1
+node 146:  1: 1
+node 147:  !
+node 148:  1: 1
+node 149:  !
+node 150:  !
+node 151:  !
+node 152:  !
+node 153:  !
+node 154:  0: 0.75950623*, 1: 0.23446369*, 2: 0.00603007
+node 155:  0: 0.9947626*, 1: 0.00494712, 2: 0.00029029
+node 156:  0: 0.99955237*, 1: 0.00035036, 2: 0.00009727
+node 157:  0: 0.99927139*, 1: 0.00037961, 2: 0.000349
+node 158:  0: 1*, 1: 3.38655341E-13, 2: 3.32460709E-13
+node 159:  0: 1
+node 160:  0: 1
+node 161:  !
+node 162:  0: 1
+node 163:  !
+node 164:  0: 0.99937852*, 1: 0.00047933, 2: 0.00014216
+node 165:  1: 1
+node 166:  0: 0.99999584*, 1: 0.00000315, 2: 0.00000101
+node 167:  0: 0.9999891*, 1: 0.00000546, 2: 0.00000545
+node 168:  0: 1
+node 169:  0: 0.999997*, 1: 0.0000015, 2: 0.0000015
+node 170:  0: 1
+node 171:  0: 0.99999927*, 1: 0.00000037, 2: 0.00000037
+node 172:  0: 1
+node 173:  0: 1
+node 174:  0: 0.99999585*, 1: 0.00000315, 2: 0.00000101
+node 175:  0: 1
+node 176:  0: 0.99993627*, 1: 0.00006349, 2: 0.00000024
+node 177:  1: 1
+node 178:  0: 0.99996755*, 1: 0.00003234, 2: 0.00000012
+node 179:  0: 1
+node 180:  0: 0.02838596, 1: 0.944354*, 2: 0.02726004
+node 181:  1: 1
+node 182:  1: 1
+node 183:  0: 0.99999986*, 1: 0.00000013, 2: 0.00000001
+node 184:  0: 0.99999987*, 1: 0.00000011, 2: 0.00000001
+node 185:  0: 1
+node 186:  0: 0.99999987*, 1: 0.00000011, 2: 0.00000001
+node 187:  0: 1
+node 188:  0: 0.99999845*, 1: 0.00000081, 2: 0.00000074
+node 189:  0: 1
+node 190:  0: 1
+node 191:  !
+node 192:  !
+node 193:  !
+node 194:  !
+node 195:  0: 0.99999981*, 1: 0.00000018, 2: 7.60455948E-9
+node 196:  0: 0.99998905*, 1: 0.00000548, 2: 0.00000547
+node 197:  0: 1
+node 198:  0: 0.99999834*, 1: 0.00000083, 2: 0.00000083
+node 199:  0: 1
+node 200:  0: 1
+node 201:  0: 0.99999981*, 1: 0.00000018, 2: 7.42855899E-9
+node 202:  0: 1*, 1: 1.35114171E-10, 2: 1.34958411E-10
+node 203:  0: 1
+node 204:  0: 1
+node 205:  0: 0.99999948*, 1: 0.0000005, 2: 0.00000002
+node 206:  0: 1
+node 207:  0: 0.98760805*, 1: 0.01219192, 2: 0.00020003
+node 208:  0: 1
+node 209:  0: 0.00000336, 1: 0.99999659*, 2: 0.00000006
+node 210:  0: 4.53994637E-10, 1: 1*, 2: 4.50529672E-10
+node 211:  1: 1
+node 212:  1: 1
+node 213:  0: 0.00000001, 1: 0.99999999*, 2: 2.24439576E-10
+node 214:  1: 1
+node 215:  1: 1
+node 216:  0: 0.83342866*, 1: 0.15566882*, 2: 0.01090253
+node 217:  0: 0.98853711*, 1: 0.01096093, 2: 0.00050195
+node 218:  0: 0.98937722*, 1: 0.0101801, 2: 0.00044268
+node 219:  0: 0.97859153*, 1: 0.01817324, 2: 0.00323523
+node 220:  0: 1
+node 221:  0: 0.91819883*, 1: 0.06935704, 2: 0.01244413
+node 222:  0: 0.03360914, 1: 0.95949141*, 2: 0.00689945
+node 223:  1: 1
+node 224:  1: 1
+node 225:  0: 0.98822902*, 1: 0.00774664, 2: 0.00402434
+node 226:  0: 1
+node 227:  0: 0.99927287*, 1: 0.00039351, 2: 0.00033362
+node 228:  0: 1
+node 229:  0: 1
+node 230:  0: 0.99918703*, 1: 0.000583, 2: 0.00022996
+node 231:  0: 0.99910091*, 1: 0.00050934, 2: 0.00038974
+node 232:  0: 1
+node 233:  0: 0.99988141*, 1: 0.00006267, 2: 0.00005591
+node 234:  0: 1
+node 235:  0: 0.99998244*, 1: 0.00000904, 2: 0.00000852
+node 236:  0: 1
+node 237:  0: 1
+node 238:  0: 0.99951713*, 1: 0.00024829, 2: 0.00023458
+node 239:  0: 1
+node 240:  0: 0.99856089*, 1: 0.00072215, 2: 0.00071696
+node 241:  !
+node 242:  0: 1
+node 243:  !
+node 244:  0: 0.99748226*, 1: 0.00126073, 2: 0.00125701
+node 245:  0: 1
+node 246:  0: 1
+node 247:  0: 0.99939696*, 1: 0.00043245, 2: 0.00017059
+node 248:  0: 0.99972514*, 1: 0.00016296, 2: 0.0001119
+node 249:  0: 0.99963416*, 1: 0.00018344, 2: 0.0001824
+node 250:  0: 1
+node 251:  0: 1
+node 252:  0: 0.99889282*, 1: 0.0005618, 2: 0.00054538
+node 253:  0: 1
+node 254:  0: 0.9994273*, 1: 0.00028791, 2: 0.00028479
+node 255:  0: 0.98143641*, 1: 0.00928283, 2: 0.00928076
+node 256:  0: 1
+node 257:  0: 1
+node 258:  0: 0.9992429*, 1: 0.00037965, 2: 0.00037745
+node 259:  0: 1
+node 260:  0: 1
+node 261:  0: 0.99945558*, 1: 0.0005273, 2: 0.00001712
+node 262:  0: 0.99945561*, 1: 0.00052727, 2: 0.00001712
+node 263:  0: 0.9506534*, 1: 0.04102426, 2: 0.00832234
+node 264:  1: 1
+node 265:  0: 0.90299296*, 1: 0.05626542, 2: 0.04074161
+node 266:  0: 1
+node 267:  0: 1
+node 268:  0: 0.99999931*, 1: 0.00000058, 2: 0.00000011
+node 269:  0: 0.99994562*, 1: 0.00002721, 2: 0.00002717
+node 270:  0: 1
+node 271:  0: 0.99996212*, 1: 0.00001894, 2: 0.00001894
+node 272:  0: 1
+node 273:  0: 0.99971021*, 1: 0.0001449, 2: 0.0001449
+node 274:  0: 1
+node 275:  0: 1
+node 276:  0: 0.99999931*, 1: 0.00000058, 2: 0.00000011
+node 277:  0: 0.99858384*, 1: 0.00070819, 2: 0.00070798
+node 278:  0: 1
+node 279:  0: 1
+node 280:  0: 0.99999926*, 1: 0.00000061, 2: 0.00000013
+node 281:  0: 1
+node 282:  0: 0.99999832*, 1: 0.00000108, 2: 0.0000006
+node 283:  0: 1
+node 284:  0: 1
+node 285:  0: 0.99686727*, 1: 0.00284764, 2: 0.00028509
+node 286:  !
+node 287:  !
+node 288:  0: 0.9988425*, 1: 0.00071461, 2: 0.00044288
+node 289:  0: 1
+node 290:  0: 1
+node 291:  0: 0.81556051*, 1: 0.1710117*, 2: 0.0134278
+node 292:  0: 0.90272547*, 1: 0.07353865, 2: 0.02373588
+node 293:  0: 1
+node 294:  0: 0.00000003, 1: 0.00000002, 2: 0.99999995*
+node 295:  2: 1
+node 296:  2: 1
+node 297:  0: 0.72723522*, 1: 0.25411994*, 2: 0.01864483
+node 298:  0: 0.44015171*, 1: 0.52136533*, 2: 0.03848296
+node 299:  1: 1
+node 300:  1: 1
+node 301:  0: 0.60320825*, 1: 0.34016319*, 2: 0.05662856
+node 302:  2: 1
+node 303:  0: 0.2289715*, 1: 0.74978346*, 2: 0.02124504
+node 304:  1: 1
+node 305:  0: 0.22897014*, 1: 0.74978479*, 2: 0.02124507
+node 306:  1: 1
+node 307:  0: 0.26325543*, 1: 0.70138478*, 2: 0.03535978
+node 308:  1: 1
+node 309:  0: 0.34429049*, 1: 0.61734859*, 2: 0.03836092
+node 310:  0: 1
+node 311:  1: 1
+node 312:  0: 0.74280421*, 1: 0.23994771*, 2: 0.01724808
+node 313:  0: 0.59884084, 1: 0.27282459, 2: 0.12833457
+node 314:  1: 1
+node 315:  0: 1
+node 316:  0: 0.74277961*, 1: 0.23997081*, 2: 0.01724958
+node 317:  0: 0.34922299*, 1: 0.61920586*, 2: 0.03157115
+node 318:  1: 1
+node 319:  0: 0.06778756, 1: 0.91573611*, 2: 0.01647632
+node 320:  1: 1
+node 321:  0: 0.0459074, 1: 0.93860046*, 2: 0.01549214
+node 322:  1: 1
+node 323:  1: 1
+node 324:  0: 0.22583742, 1: 0.64542904, 2: 0.12873353
+node 325:  0: 0.00166217, 1: 0.99691213*, 2: 0.0014257
+node 326:  1: 1
+node 327:  1: 1
+node 328:  0: 0.21098137, 1: 0.649146, 2: 0.13987263
+node 329:  1: 1
+node 330:  0: 0.20850524, 1: 0.60933057, 2: 0.18216419
+node 331:  1: 1
+node 332:  0: 0.04603176, 1: 0.90947484*, 2: 0.0444934
+node 333:  1: 1
+node 334:  0: 0.02673676, 1: 0.94690093*, 2: 0.02636231
+node 335:  1: 1
+node 336:  1: 1
+
