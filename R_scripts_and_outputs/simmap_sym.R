@@ -34,7 +34,7 @@ mysimmap <- function(mytree,mypdfout) {
 
     animatrix <- as.matrix(anidata)
     rownames(animatrix) <- rn$V1
-    colnames(animatrix) <- c("hermaphrodite","separatesexes", "asexual")
+    colnames(animatrix) <- c("separatesexes","hermaphrodite", "asexual")
 
     SYM.simmap_trees <- make.simmap(anitree,animatrix,nsim=mynsim,model="SYM")
     SYM.simmap_trees$loglike
