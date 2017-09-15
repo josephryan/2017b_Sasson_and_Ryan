@@ -1,29 +1,30 @@
 # Supplemental files for Sasson and Ryan, 2017
-# A reconstruction of sexual modes throughout animal evolution 
+*A reconstruction of sexual modes throughout animal evolution*
 
 #### 18s.fa
-18s sequences used to estimate branch lengths
+
+    18s sequences used to estimate branch lengths
 
 #### character_matrix.txt
-character matrix of sexual modes (0 = separate sexes; 1 = hermaphroditic; 2 = asexual)
+    character matrix of sexual modes (0 = separate sexes; 1 = hermaphroditic; 2 = asexual)
 
 #### commands.md
-commands for analyses run in Sasson and Ryan, 2017
+    commands for analyses run in Sasson and Ryan, 2017
 
 #### composite.tre
-composite tree topology (no branch lengths) of animals using the following studies: Cannon et al. 2016, Zapata et al. 2015, Podar et al. 2001, and Riesgo et al. 2014.
+    composite tree topology (no branch lengths) of animals using the following studies: Cannon et al. 2016, Zapata et al. 2015, Podar et al. 2001, and Riesgo et al. 2014.
 
 #### ctenophore_first_tree.nex
-18s tree, with constraints based on composite.tre
+    18s tree, with constraints based on composite.tre
 
 #### sponge_first_tree.nex
-18s tree, with constraints based on composite.tre, but with sponges as the sister group to the rest of animals
+    18s tree, with constraints based on composite.tre, but with sponges as the sister group to the rest of animals
 
 #### mesquite_outputs
-outputs from analyses run in mesquite
+    outputs from analyses run in mesquite
 
 #### R_scripts_and_outputs
-scripts and outputs from analyses run in R
+    scripts and outputs from analyses run in R
 
 #### Copyright and License
 Copyright (C) 2017 Joseph F. Ryan
