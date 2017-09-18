@@ -2,11 +2,11 @@ RESULTS FOR  ctenosis.nex
 ER log likelihood:  -142.7571 
 SYM log likelihood:  -115.3074 
 ARD log likelihood:  -113.9996 
-ER vs. ARD:  3.960265e-11 
+ER vs. ARD:  3.960265e-11 , stat =  57.51496 
     if <= 0.05 than ARD is significantly better than ER
-SYM vs. ARD:  0.4547759 
+SYM vs. ARD:  0.4547759 , stat =  2.615516 
     if <= 0.05 than ARD is significantly better than SYM
-ER vs. SYM:  1.198819e-12 
+ER vs. SYM:  1.198819e-12 , stat =  54.89945 
     if <= 0.05 than SYM is significantly better than ER
 
 ---------------------------------------------------------------
@@ -15,11 +15,11 @@ RESULTS FOR  spongesis.nex
 ER log likelihood:  -135.5421 
 SYM log likelihood:  -108.423 
 ARD log likelihood:  -107.4649 
-ER vs. ARD:  7.552992e-11 
+ER vs. ARD:  7.552992e-11 , stat =  56.15436 
     if <= 0.05 than ARD is significantly better than ER
-SYM vs. ARD:  0.5900014 
+SYM vs. ARD:  0.5900014 , stat =  1.916102 
     if <= 0.05 than ARD is significantly better than SYM
-ER vs. SYM:  1.668443e-12 
+ER vs. SYM:  1.668443e-12 , stat =  54.23826 
     if <= 0.05 than SYM is significantly better than ER
 
 ---------------------------------------------------------------

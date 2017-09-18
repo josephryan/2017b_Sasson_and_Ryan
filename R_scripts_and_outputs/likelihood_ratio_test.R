@@ -48,18 +48,21 @@ mylrt <- function(mytree) {
     #     ARD a six parameter model.
 
     # df = 5 (i.e. ARD(6) - ER(1))
+    erard_stat <- 2*abs(ERreconstruction$loglik - ARDreconstruction$loglik)
     erard <- 1-pchisq(2*abs(ERreconstruction$loglik - ARDreconstruction$loglik), 5)
-    cat("ER vs. ARD: ", erard, "\n")
+    cat("ER vs. ARD: ", erard, ", stat = ", erard_stat, "\n")
     cat("    if <= 0.05 than ARD is significantly better than ER\n")
 
     # df = 3 (i.e. ARD(6) - SYM(3))
     symard <- 1-pchisq(2*abs(SYMreconstruction$loglik - ARDreconstruction$loglik), 3)
-    cat("SYM vs. ARD: ",symard,"\n")
+    symard_stat <- 2*abs(SYMreconstruction$loglik - ARDreconstruction$loglik)
+    cat("SYM vs. ARD: ",symard, ", stat = ", symard_stat, "\n")
     cat("    if <= 0.05 than ARD is significantly better than SYM\n")
 
     # df = 2 (i.e. SYM(3) - ER(1))
     ersym <- 1-pchisq(2*abs(ERreconstruction$loglik - SYMreconstruction$loglik), 2)
-    cat("ER vs. SYM: ",ersym,"\n")
+    ersym_stat <- 2*abs(ERreconstruction$loglik - SYMreconstruction$loglik)
+    cat("ER vs. SYM: ",ersym, ", stat = ", ersym_stat, "\n")
     cat("    if <= 0.05 than SYM is significantly better than ER\n")
     cat("\n---------------------------------------------------------------\n\n")
 }    
