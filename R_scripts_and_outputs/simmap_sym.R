@@ -48,7 +48,7 @@ mysimmap <- function(mytree,mypdfout,mypdfplotout) {
 
     # we use anichrono to generate a pseudo-ultrametic tree
     anichrono <- chronopl(anitree, lambda = 0, age.min = 1)
-    plot(anichrono,label.offset=.01, cex=0.8)
+    plot(anichrono,label.offset=.01, cex=0.4)
     nodelabels(pie=res_simmap$ace,piecol=c("yellow","red","blue"),cex=0.2)
     tiplabels(pie=res_simmap$tips,piecol=c("yellow","red","blue"),cex=0.2)
 
