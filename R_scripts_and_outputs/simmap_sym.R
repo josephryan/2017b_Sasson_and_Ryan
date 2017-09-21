@@ -12,19 +12,22 @@ library(maps)
 library(ape)
 library(phytools)
 
-mydir         <- "/Users/jfryan/Dropbox/00-JOE/06-Papers/2017/14-SASSON_ANCESTRAL_SEX/03-R_for2nd_revision/04-FINAL_R"
+#mydir         <- "/Users/jfryan/Dropbox/00-JOE/06-Papers/2017/14-SASSON_ANCESTRAL_SEX/03-R_for2nd_revision/04-FINAL_R"
+mydir         <- "."
 mynsim        <- 1000
 ctenosistree  <- "ctenosis.nex"
 spongesistree <- "spongesis.nex"
+spongeoutpdf   <- "simmap_spongesis.pdf"
 ctenooutpdf   <- "simmap_ctenosis.pdf"
-spongeoutpdf  <- "simmap_spongesis.pdf"
+ctenoplotsoutpdf   <- "simmap_ctenosis_plots.pdf"
+spongeplotsoutpdf  <- "simmap_spongesis_plots.pdf"
 charmat_vals  <- "charmat_vals.dat"
 charmat_names <- "charmat_names.dat"
 
 setwd(mydir)
 
-mysimmap <- function(mytree,mypdfout) {
-    pdf(file=mypdfout,width=25.5,height=33)
+mysimmap <- function(mytree,mypdfout,mypdfplotout) {
+    pdf(file=mypdfout,width=8.5,height=11)
     anitree <- read.nexus(mytree)
     anidata <- read.table(charmat_vals,sep=",")
     rn <- read.table(charmat_names)
@@ -49,30 +52,17 @@ mysimmap <- function(mytree,mypdfout) {
     nodelabels(pie=res_simmap$ace,piecol=c("yellow","red","blue"),cex=0.2)
     tiplabels(pie=res_simmap$tips,piecol=c("yellow","red","blue"),cex=0.2)
 
-    # FOR THE NEXT COMMAND THESE COMMANDS AND SUBSEQUENT VALUES WILL BE HELPFUL
-    # use nodelabels(bg="white") to label nodes with corresponding numbers
-    # key nodes:
-    #                                           asexual       sep           herm
-    #   animal LCA = 166                # 166   
-    #   ctenophore LCA = 167            # 167   
-    #   sponge+parahoxozoa LCA = 177    # 177   
-    #   sponge LCA = 178                # 178   
-    #   parahoxozoa LCA = 239           # 239   
-    #   cnidarian-bilaterian LCA = 240  # 240   
-    #   bilateria LCA = 271             # 271   
-    #   cnidaria LCA = 241              # 241   
-
-    # The following prints all node values
-    # NOTE: HEADINGS ARE WRONG. SEE CTENOPHORE LCA 167 in ctenosis SHOULD BE: 
-    #     ASEXUAL SEPARATESEXES HERMAPHRODITE
-    #     asexual hermaphrodite separatesexes
-    #166   0.000         0.542         0.458
+    pdf(file=mypdfplotout,width=8.5,height=11)
+    plot(anitree,label.offset=.01, cex=0.4)
+    par(mfrow=c(5,5))
+    colors <- setNames(c(c="yellow","red","blue"),c("asexual","hermaphrodite","separatesexes")) 
+    plot(SYM.simmap_trees,lwd=1,ftype="off",colors=colors)
 
     print(res_simmap$ace)
     cat("\n------------------------------------------------------\n")
 }
 
-mysimmap(ctenosistree,ctenooutpdf)
-mysimmap(spongesistree,spongeoutpdf)
+mysimmap(ctenosistree,ctenooutpdf,ctenoplotsoutpdf)
+mysimmap(spongesistree,spongeoutpdf,spongeplotsoutpdf)
 sessionInfo()
 

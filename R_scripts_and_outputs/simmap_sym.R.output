@@ -414,7 +414,7 @@ loaded via a namespace (and not attached):
  [4] mvtnorm_1.0-6           msm_1.6.4               MASS_7.3-47            
  [7] grid_3.4.1              nlme_3.1-131            magrittr_1.5           
 [10] coda_0.19-1             scatterplot3d_0.3-40    phangorn_2.2.0         
-[13] combinat_0.0-8          Matrix_1.2-10           fastmatch_1.1-0        
+[13] combinat_0.0-8          Matrix_1.2-11           fastmatch_1.1-0        
 [16] splines_3.4.1           igraph_1.1.2            plotrix_3.6-6          
 [19] numDeriv_2016.8-1       survival_2.41-3         parallel_3.4.1         
 [22] compiler_3.4.1          pkgconfig_2.0.1         mnormt_1.5-5           
